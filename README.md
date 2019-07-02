@@ -1,2 +1,2 @@
 # learning_typescript
-Small projects using typescript
+My journey of learning typescript
